@@ -13,7 +13,6 @@ public class LinkedlistDemo {
 		linkedList.add(50);
 	System.out.println("linkedlist having contains:" +linkedList);	
 		
-		
 	}
 
 }
